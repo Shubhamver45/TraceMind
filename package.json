@@ -1,0 +1,20 @@
+{
+  "name": "tracemind",
+  "version": "1.0.0",
+  "description": "TraceMind: Graph-Native Incident Investigation & Episodic Memory Agent Powered by FalkorDB",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm start"
+  },
+  "keywords": [
+    "falkordb",
+    "graph-database",
+    "ai-agent",
+    "nextjs",
+    "sre",
+    "incident-investigation",
+    "hackathon"
+  ],
+  "license": "MIT"
+}
